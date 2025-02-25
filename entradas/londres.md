@@ -6,3 +6,5 @@ Londres (en inglés: Londonⓘ) es la capital y mayor ciudad de Inglaterra y de 
 ## Recomendacion
 Ir al a concer el palacio real
 
+## Foto
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/248px-London_Skyline_%28125508655%29.jpeg)
