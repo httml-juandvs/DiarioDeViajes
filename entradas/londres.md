@@ -8,3 +8,7 @@ Ir al a concer el palacio real
 
 ## Foto
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/248px-London_Skyline_%28125508655%29.jpeg)
+
+## Informacion del lugar
+Londres es una ciudad global, uno de los centros neurálgicos en el ámbito de las artes, el comercio, la educación, el entretenimiento, la moda, las finanzas, los medios de comunicación, la investigación, el turismo o el transporte.10​ Es el principal centro financiero del mundo junto con Nueva York.11​12​13​ Con un PIB de 801 660 millones de euros en 2017, es la economía urbana más grande de Europa.14​15​16​
+
