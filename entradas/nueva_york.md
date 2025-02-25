@@ -8,3 +8,9 @@ La ciudad con mas culturas coexistiendo
 
 ## Foto 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/268px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg)
+
+## Informacion del pais
+
+La ciudad se compone de cinco distritos (llamados boroughs): el Bronx, Brooklyn, Manhattan, Queens y Staten Island, cada uno de los cuales coincide con un condado: Bronx, Kings, Nueva York, Queens y Richmond, respectivamente. Con más de veinticuatro millones de neoyorquinos en un área urbana de 830 kilómetros cuadrados (320 mi²), Nueva York es la segunda ciudad con más densidad de población de Estados Unidos, solo detrás de Union City, Nueva Jersey, localizada al otro lado del río Hudson.11​ Junto con Ginebra, Basilea y Estrasburgo, Nueva York es una de las pocas ciudades del mundo que es sede de varias instituciones internacionales sin ser la capital política de un estado.12​
+
+
