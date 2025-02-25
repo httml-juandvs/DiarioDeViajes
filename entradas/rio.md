@@ -6,3 +6,6 @@ Río de Janeiro1​ (en portugués: Rio de Janeiro, pronunciado /ˈχiw d(ʒi) �
 ## Recomendacion
 Fue la capital del Imperio portugués entre 1808 y 1822 y, más tarde, la capital de Brasil desde 1822, cuando la nación declaró su independencia del país luso. Conservó ese rango hasta la inauguración de Brasilia, en 1960.5​
 
+## Foto
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rio_Collage.png/290px-Rio_Collage.png
+)
