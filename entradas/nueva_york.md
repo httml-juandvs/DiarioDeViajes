@@ -6,3 +6,5 @@ Nueva York2​ (en inglés: New Yorkⓘ), usualmente llamada Ciudad de Nueva Yor
 ## Recomendacion
 La ciudad con mas culturas coexistiendo
 
+## Foto 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/268px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg)
