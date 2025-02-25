@@ -6,4 +6,7 @@ Tokio (東京 Tōkyōⓘ?), oficialmente Metrópolis de Tokio (東京都, Tōky�
 ## Recomendacion
 Visitar restaurantes
 
+## Foto
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Shinjuku_central_park_southwest.jpg/288px-Shinjuku_central_park_southwest.jpg
+)
 
