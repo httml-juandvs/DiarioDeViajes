@@ -6,3 +6,6 @@ La Ciudad de México,n 2​ antes llamada también México, Distrito Federal (M�
 ## Recomendacion
 Ve a comer tacos
 
+## Foto
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Palacio_de_Bellas_Artes%2C_Mexico_City%2C_MX.jpg/112px-Palacio_de_Bellas_Artes%2C_Mexico_City%2C_MX.jpg)
+
