@@ -9,3 +9,6 @@ Ve a comer tacos
 ## Foto
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Palacio_de_Bellas_Artes%2C_Mexico_City%2C_MX.jpg/112px-Palacio_de_Bellas_Artes%2C_Mexico_City%2C_MX.jpg)
 
+## Informacion del lugar
+
+La Ciudad de México representa el principal centro político, económico, social, académico, financiero, empresarial, turístico, cultural, de comunicaciones y de entretenimiento en México; dicha relevancia la traslada al escenario internacional al estar catalogada como una ciudad global nivel «alfa», esto al proyectar sus elementos ponderados en las zonas de influencia donde destaca su país (continental, mundo hispano, regional y economías emergentes), siendo en términos absolutos la 44.ª del planeta en poderio; lo anterior está de manifiesto al ser uno de los centros financieros y culturales más importantes del mundo, así como una de las economías más dinámicas a nivel internacional.35​36​37​38​39​
